@@ -19,13 +19,13 @@
 
 att_list_obj = [
     {
-        id : 'hachuping',
+        // id : 'hachuping',
         name : '하츄핑',
         att : 430,
         day : 1
     },
     {
-        id : 'asdf',
+        // id : 'asdf',
         name : '기원',
         att : 380,
         day : 1
